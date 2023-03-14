@@ -1,0 +1,19 @@
+* { box-sizing: border-box; }
+
+.base {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.coluna {
+  flex: 25%;
+  padding: 20px;s
+}
+
+.cor1 { background-color:#aaa; }
+
+.cor2 { background-color:#bbb; }
+
+.cor3 { background-color:#ccc; }
+
+.cor4 { background-color:#ddd; }
